@@ -56,8 +56,6 @@ SCBurpScan tab layout:
 
 ## Installation
 
-### Option A — Build from source
-
 ```bash
 git clone https://github.com/kcnewb1e/scburpscan.git
 cd scburpscan
@@ -71,10 +69,6 @@ Then in Burp Suite:
 2. Extension type: **Java**
 3. Select `build/libs/scburpscan.jar`
 4. Click **Next** → the **SCBurpScan** tab appears
-
-### Option B — Pre-built JAR
-
-Download `scburpscan.jar` from [Releases](../../releases) and add it directly in Burp Extensions.
 
 ---
 
