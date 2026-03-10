@@ -59,7 +59,7 @@ SCBurpScan tab layout:
 ### Option A — Build from source
 
 ```bash
-git clone https://github.com/yourname/scburpscan.git
+git clone https://github.com/kcnewb1e/scburpscan.git
 cd scburpscan
 bash build.sh
 ```
